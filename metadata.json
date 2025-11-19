@@ -1,21 +1,18 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning: Variable Persistence in Python Cells",
+    "slug": "atomic-learning-python-cells-variable-persistence",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning",
+        "python"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "atomic-learning-python-cells",
+        "python-variables"
     ],
     "related": [
-        "",
-        ""
     ]
 }
